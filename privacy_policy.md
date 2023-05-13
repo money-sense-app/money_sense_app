@@ -1,4 +1,3 @@
-Privacy Policy
 # Privacy policy
 The Wealth Muse (ex Money Sense) app built as a Commercial app. This SERVICE is provided by and is intended for use as is.
 This page is used to inform visitors regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use the Service.
